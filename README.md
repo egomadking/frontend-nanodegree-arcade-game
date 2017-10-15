@@ -8,4 +8,4 @@ In this game you have a Player and Enemies (Bugs). The goal of the player is to 
 
 ## Game play
 
-To open the game, simply open the HTML file in a browser that supports JavaScript. At that point, the game will load and the bugs will start menacing your character! The arrow keys found are used to navigate the character around on the tiled screen. While attempting to avoid the bugs rolling across the screen, the goal is to reach the water on the top. Go for a swim; it's so refreshing!
+To open the game, simply open the HTML file in a browser that supports JavaScript. At that point, the game will load and the bugs will start menacing your character! The arrow keys are used to navigate the character around on the tiled screen. While attempting to avoid the bugs rolling across the screen, the goal is to reach the water on the top. Go for a swim; it's so refreshing!
